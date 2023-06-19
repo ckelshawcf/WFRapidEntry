@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Pega Robot Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{B45C44CD-E95B-43EF-AF7C-4D25776FBF5E}") = "WFRapidEntry", "WFRapidEntry\WFRapidEntry.osproj", "{35D26816-46E0-401F-9513-60D47C23B657}"
+EndProject
+Project("{B45C44CD-E95B-43EF-AF7C-4D25776FBF5E}") = "Utilities", "Utilities\Utilities.osproj", "{60ED6A3F-E670-4B7F-9E94-FE4EDF9578E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35D26816-46E0-401F-9513-60D47C23B657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D26816-46E0-401F-9513-60D47C23B657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D26816-46E0-401F-9513-60D47C23B657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D26816-46E0-401F-9513-60D47C23B657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60ED6A3F-E670-4B7F-9E94-FE4EDF9578E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60ED6A3F-E670-4B7F-9E94-FE4EDF9578E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60ED6A3F-E670-4B7F-9E94-FE4EDF9578E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60ED6A3F-E670-4B7F-9E94-FE4EDF9578E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
