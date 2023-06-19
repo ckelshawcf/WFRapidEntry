@@ -1,0 +1,120 @@
+<Cache>
+  <Project configuration="" />
+  <DesignComponents>
+    <DesignComponent id="Automator-8DA22E1B9D63242" className="CloseRapidSession" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8DA29C80A9464DB" className="CreateTestData" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8DA22DF7D5735F1" className="ExitToFunctionScreen" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8DA5843439A2C54" className="IN01Input" type="Automation" isPublic="True" screenShots="">
+      <DynamicClasses>
+        <DynamicClass id="BooleanExpression-8DA59B908CE6174" fileExt=".cs">
+          <References>
+            <Reference value="System.dll" />
+            <Reference value="OpenSpan.dll" />
+            <Reference value="OpenSpan.Controls.dll" />
+          </References>
+        </DynamicClass>
+        <DynamicClass id="NumericExpression-8DA59B9151DA409" fileExt=".cs">
+          <References>
+            <Reference value="System.dll" />
+            <Reference value="OpenSpan.dll" />
+            <Reference value="OpenSpan.Controls.dll" />
+          </References>
+        </DynamicClass>
+      </DynamicClasses>
+    </DesignComponent>
+    <DesignComponent id="Automator-8DA22B39DF08059" className="RapidLogin" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8DA2375A3AB97A1" className="RapidLogoff" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8DA43D60FDBC83D" className="SendLogNumBack" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8DA237C12EAC963" className="Shutdown" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8DA22B11E5239B9" className="StartupProject" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="WindowsAdapter-8DA22ABDB522C1E" className="WARapid" type="Adapter" isPublic="True" screenShots="WARapid.screenshots.resx">
+      <Translators>
+        <Translator value="Pega.ActiveX.x32.dll" />
+        <Translator value="Pega.ActiveX.x64.dll" />
+      </Translators>
+      <BuildReferences>
+        <BuildReference value="DefaultWindowFactoryConfiguration.xml" />
+        <BuildReference value="openspan.ini" />
+        <BuildReference value="OpenSpan.Virtual.Interfaces.delegates.tlb" />
+        <BuildReference value="OpenSpan.Virtual.Interfaces.tlb" />
+        <BuildReference value="OpenSpan.x32.sys" />
+        <BuildReference value="OpenSpan.x64.sys" />
+        <BuildReference value="Pega.ActiveX.x32.dll" />
+        <BuildReference value="Pega.ActiveX.x64.dll" />
+        <BuildReference value="Pega.GlobalAllocator.x32.dll" />
+        <BuildReference value="Pega.GlobalAllocator.x64.dll" />
+        <BuildReference value="Pega.Native.Remoting.x32.dll" />
+        <BuildReference value="Pega.Native.Remoting.x64.dll" />
+        <BuildReference value="Pega.Remoting.tlb" />
+        <BuildReference value="Pega.Scout.x32.dll" />
+        <BuildReference value="Pega.Scout.x64.dll" />
+        <BuildReference value="Pega.Security.x32.dll" />
+        <BuildReference value="Pega.Security.x64.dll" />
+        <BuildReference value="Pega.SharedMemory.x32.dll" />
+        <BuildReference value="Pega.SharedMemory.x64.dll" />
+        <BuildReference value="Pega.Sinon.x32.dll" />
+        <BuildReference value="Pega.Sinon.x64.dll" />
+        <BuildReference value="Pega.Utilities.x32.dll" />
+        <BuildReference value="Pega.Utilities.x64.dll" />
+        <BuildReference value="Pega.WER.x32.dll" />
+        <BuildReference value="Pega.WER.x64.dll" />
+        <BuildReference value="Pega.Windows.Broker.x32.dll" />
+        <BuildReference value="Pega.Windows.Broker.x64.dll" />
+        <BuildReference value="Pega.WinQueue.x32.dll" />
+        <BuildReference value="Pega.WinQueue.x64.dll" />
+      </BuildReferences>
+    </DesignComponent>
+    <DesignComponent id="Automator-8DA22CED3457A38" className="IV03Input" type="Automation" isPublic="True" screenShots="">
+      <DynamicClasses>
+        <DynamicClass id="NumericExpression-8DA29CF67D00D49" fileExt=".cs">
+          <References>
+            <Reference value="System.dll" />
+            <Reference value="OpenSpan.dll" />
+            <Reference value="OpenSpan.Controls.dll" />
+          </References>
+        </DynamicClass>
+        <DynamicClass id="BooleanExpression-8DA73A9F740AAE1" fileExt=".cs">
+          <References>
+            <Reference value="System.dll" />
+            <Reference value="OpenSpan.dll" />
+            <Reference value="OpenSpan.Controls.dll" />
+          </References>
+        </DynamicClass>
+      </DynamicClasses>
+    </DesignComponent>
+    <DesignComponent id="WinHllapiAdapter-8DA22AC03529C72" className="TARapid" type="Adapter" isPublic="True" screenShots="">
+      <BuildReferences>
+        <BuildReference value="OpenSpan.Adapters.WinHLLAPIHost.x32.exe" />
+        <BuildReference value="OpenSpan.Adapters.WinHLLAPIHost.x64.exe" />
+        <BuildReference value="openspan.ini" />
+        <BuildReference value="OpenSpan.WinHllapi.x32.dll" />
+        <BuildReference value="OpenSpan.x32.sys" />
+      </BuildReferences>
+    </DesignComponent>
+    <DesignComponent id="Automator-8DA22DE7361AF9B" className="IV04Input" type="Automation" isPublic="True" screenShots="">
+      <DynamicClasses>
+        <DynamicClass id="NumericExpression-8DA2D05DB79AF33" fileExt=".cs">
+          <References>
+            <Reference value="System.dll" />
+            <Reference value="OpenSpan.dll" />
+            <Reference value="OpenSpan.Controls.dll" />
+          </References>
+        </DynamicClass>
+        <DynamicClass id="NumericExpression-8DA2D070A4E761A" fileExt=".cs">
+          <References>
+            <Reference value="System.dll" />
+            <Reference value="OpenSpan.dll" />
+            <Reference value="OpenSpan.Controls.dll" />
+          </References>
+        </DynamicClass>
+        <DynamicClass id="BooleanExpression-8DA2DAA8450C2D9" fileExt=".cs">
+          <References>
+            <Reference value="System.dll" />
+            <Reference value="OpenSpan.dll" />
+            <Reference value="OpenSpan.Controls.dll" />
+          </References>
+        </DynamicClass>
+      </DynamicClasses>
+    </DesignComponent>
+  </DesignComponents>
+</Cache>
