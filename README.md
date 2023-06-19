@@ -1,0 +1,2 @@
+# WFRapidEntry
+Wakefern Rapid Bot
