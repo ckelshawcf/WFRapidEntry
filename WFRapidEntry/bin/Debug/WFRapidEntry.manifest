@@ -1,0 +1,10 @@
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="WFRapidEntry" fileName="WFRapidEntry.dll" assemblyName="WFRapidEntry.dll" id="Project-8DA22AA3E271605" version="19.1.118.0" deploymentVersion="1.78" configuration="" createdWith="Deployment" obfuscated="False" runtime="True" digest="DDBD4942850FDD91A6D7BF869C710FBAF9ED06">
+    <Assemblies>
+      <Assembly value="WFRapidEntry.dll" digest="060F7BDD2BFEFD39DF5D559EE2D22804D67645" />
+      <Assembly value="WFRapidEntry.pdb" digest="EAF6419F2BFDBC8C5F874D81E57C316ED593AB" />
+      <Assembly value="Utilities.dll" digest="1CC5A848B647A990EE75F382ACA65BA62A1F60" />
+      <Assembly value="Utilities.pdb" digest="ABF8D4BA458507D2F8096176131FBCD75C8C65" />
+    </Assemblies>
+  </CompositeStudioProject>
+</DeploymentManifest>
