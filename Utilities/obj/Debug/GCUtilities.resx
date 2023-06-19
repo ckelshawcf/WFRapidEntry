@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="luCaseDetails.TableSchema" xml:space="preserve">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"&gt;
+  &lt;xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true"&gt;
+    &lt;xs:complexType&gt;
+      &lt;xs:choice minOccurs="0" maxOccurs="unbounded"&gt;
+        &lt;xs:element name="LookupTable"&gt;
+          &lt;xs:complexType&gt;
+            &lt;xs:sequence&gt;
+              &lt;xs:element name="Claim_x0020_Number" type="xs:string" minOccurs="0" /&gt;
+              &lt;xs:element name="Division" type="xs:string" minOccurs="0" /&gt;
+              &lt;xs:element name="Customer_x0020_Number" type="xs:string" minOccurs="0" /&gt;
+              &lt;xs:element name="Claim_x0020_Type" type="xs:string" minOccurs="0" /&gt;
+              &lt;xs:element name="Warehouse" type="xs:string" minOccurs="0" /&gt;
+              &lt;xs:element name="Reason_x0020_Code" type="xs:string" minOccurs="0" /&gt;
+            &lt;/xs:sequence&gt;
+          &lt;/xs:complexType&gt;
+        &lt;/xs:element&gt;
+      &lt;/xs:choice&gt;
+    &lt;/xs:complexType&gt;
+  &lt;/xs:element&gt;
+&lt;/xs:schema&gt;</value>
+  </data>
+  <data name="luLineItems.TableSchema" xml:space="preserve">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"&gt;
+  &lt;xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true"&gt;
+    &lt;xs:complexType&gt;
+      &lt;xs:choice minOccurs="0" maxOccurs="unbounded"&gt;
+        &lt;xs:element name="LookupTable"&gt;
+          &lt;xs:complexType&gt;
+            &lt;xs:sequence&gt;
+              &lt;xs:element name="Item_x0020_Number" type="xs:string" minOccurs="0" /&gt;
+              &lt;xs:element name="Weight" type="xs:string" minOccurs="0" /&gt;
+              &lt;xs:element name="Qty" type="xs:string" minOccurs="0" /&gt;
+              &lt;xs:element name="O_x002F_S" type="xs:string" minOccurs="0" /&gt;
+              &lt;xs:element name="O_x002F_S_x0020_Type" type="xs:string" minOccurs="0" /&gt;
+              &lt;xs:element name="Invoice" type="xs:string" minOccurs="0" /&gt;
+              &lt;xs:element name="RTN" type="xs:string" minOccurs="0" /&gt;
+            &lt;/xs:sequence&gt;
+          &lt;/xs:complexType&gt;
+        &lt;/xs:element&gt;
+      &lt;/xs:choice&gt;
+    &lt;/xs:complexType&gt;
+  &lt;/xs:element&gt;
+&lt;/xs:schema&gt;</value>
+  </data>
+  <data name="_GCUtilities_1_" xml:space="preserve">
+    <value>OSVSXxwUAAL2Ub2vCMBDGv0rxtdR22mnBCk5xjL1QVNzra3qRYHIJ+YP0208H2yiKG2OVvLvkud8d9+TGM62MJiT/QlxPxtvaYLQDGbDoLA3SxgDF0+C1Ai80xc9SlyBnmjwIQtuJepPx1DlUpaxv6Brv1sjRIjF0l1rlmLZSlN1oh9adlMUgTs6nG82C9MFiQRi8BdmNVqGUgr1ivdUHpKIcDiFj2WOa9weYjPKrtW1q51G1mz2eWzgK2v+FkvR5xoc8TassgT7corwJqvTRxQttlWuro89ZfudP8zj9HYBnVZmnWLHkoRqxDH8wizEn8YdbFhYUHrU93IH6ZdH2WedfY7V07ZOWnAuG7XPWgbxQeOrM3oG2YVYY3xpnhXv4/xn1rm29eU2gBLu8OisWQmIz8hSErJqhXnNvvwM=</value>
+  </data>
+  <data name="_GCUtilities_2_" xml:space="preserve">
+    <value>OSVSXWwMAAKXT20oDMRAG4FcJeQDr8a5bkC2CiC20RS8luxntYJJZMomQt3cPio3xRvYu+SeZjwlk+QjhSFro5JTF9pA6qOSUSdFH/e5W6x205PtAGVS8+Z1+IGODBkOq5BpeVTRh66Rgir7tT0rRGGrfh9bTVSk8hOjdhO0TB7BnT4Rarpad8sp+wQ+QXmqj0IpNtA34zC+L49Ws5z54dG9SIN+7Sh58hGG9jeF70xFjQOqL51Iscn2Nw1zkMvUn/Jd2pwxn3EXB1ZEDWfB/zVrU5uGXJT4+5NAwd0/ieeRVQT4rD0eKnIsn6TzwugB3oJicqEnnZJbPQ29GdDF9n9Un</value>
+  </data>
+  <data name="_GCUtilities_3_" xml:space="preserve">
+    <value>OSVSXXwMAAKXTyWrDMBAG4FcR8wBN11ucQx1aSmkCSaDHItuTZqikMVoKfvvKCySqCj34Jv0jzScJtHxDf+JGNJ2RmupD12IBYwYiRnH2jH6HNdsYSEXSbX6n3+SoIkW+K2CNRxmU3xoQjoOt40oQleL6q289bgVh0QdrRmzfOY/66pFZoTSwWrbSSj3Zr9h9lEqSFpugK7TJEfLisDVpu/eWzCcIci+mgIMN2I+3wRfwJJWLs5YdeeJYvQaxSPk19Xdjk7Dn8D9uEiZvxM/cTcaVwXnWaP+6bFabh9/m+PCSfcPUvYjnkXcZ+S4tnji4VLxI54H3GbhD6diIkpuUTPJ56MOALsYvtPoB</value>
+  </data>
+  <data name="_GCUtilities_4_" xml:space="preserve">
+    <value>OSVSXYwMAAKXT207EIBAG4FchPIDr8W67N92YGONu0t3opZnS0Z0ITMPBpG9vDxqL7I3pHfwDfEBg/YThxI1oOguG1LFrsZBTJkUf9b0KWw0KK1Ts+hA0gd+dq3ySp5o0ha6QW3yDqMPeSuE5OtWPlqLWrD4GYpouhcMQnZ3QQ+cDmotnpkZu1i04MN8beMTutdRARuyiqdEle8iL49RkzUNwZN+lIP9gC3l0EYf2PoafTsueAnFfvJRilepbGs7FNlF/w39p96B9wl1lXBl9YIPu3Fmz2jL8OsfHixwWTN1ZvIy8ycgXcHji6FNxli4DbzOwQvBsRckN/nnMs3wZejeiq+kbbb4A</value>
+  </data>
+  <data name="_GCUtilities_5_" xml:space="preserve">
+    <value>OSVSXigMAAKXTXWvDIBQG4L8i/oBl3ddVUxiUQRhLWBO6y2Giaw8zGvwo+O9nTDuw7mZ45/sePc+V6zdmjpIi6gQZYejcxEq8dBj5yqdnSndskMoXhAPR9XV7Ag09cDCuxFv2RSw3jcBIS6sGfxOjnsvhe169PMVIMWOVWLDWacPGm70EijfriSgynuFX5j4rP0O1HXumIj6ZhYfRxtYoEAeMQFeixJ2ybD431lzCJDUYkH54i1ER2x8MDkcTkZfqX9IL4TqiVgn1blzkhJyH3CVIU7QREnIecv8XguZ119K5zOMeEq4SJwlDrP12edhjgu26OoJCzkOeAlIsv23zAw==</value>
+  </data>
+  <data name="_GCUtilities_6_" xml:space="preserve">
+    <value>OSVSXjgMAAKXTy2rDMBAF0F8R8wF136s4i1IaTKlNY0OXRXamyRBZMnoE9PeVH21RXMjCO9070hxvvHpDe1A7tvOSt9RUvsMUxg5YqELaoN1io3QouCBu8vP2RIZqEmR9Cs/4xZ2whQRmlNNNuAmsFqo59qvHp8A0WqfliJXeWGyvnpQSyCWsVx3XvJ3sV/SfWRiz3LU16ugLZrPhYbS0tJrkHhiZTKZQaYf9uXA2hRcuTEidMmRJhek1sCTGP5D2BxuZP9Ulato+WSP8R93MqHfrI2fIy5DbGVIkZYQMeRly9x/C+nXn0lQu4+5nXCZPippY++2WYQ8zbFvlETTkZcjjgCTjH7f+Bg==</value>
+  </data>
+  <data name="_GCUtilities_7_" xml:space="preserve">
+    <value>OSVSXkgMAAKXTy27DIBAF0F9BfEDd9yrOqqpkVbFV22qXFcbTZBQMFo9I/H2xnVSiZFN5x70DHDZsdmAPqie9l2xA3voRcrp0lIQqpBpGwTjUwJUOJRPITHltckKDHQq0Pqcv8M2csJWkxCinedhNSScUP07EcpwSDdZpuaCNNxaGmw+FPd1uRqbZcH7AG/ivIsxI6YYOdPSEZDYfjG5srEa5pwRNIXPaagfTunL2EkZl0KIKw1tKstj+BNwfbEReqn9Jr0yYiLpLqHfrI2fO65D7BKmyJkLmvA55uIaQ6bq/0rlcxz0mXCFPCnms/XbrsKcEq9sy/gNTXoc8z0i2/LrtDw==</value>
+  </data>
+  <data name="_GCUtilities_8_" xml:space="preserve">
+    <value>OSVSXDgEAAG2PSw6CQAyGrzLpAcQDACujMRFY4AUGqNg4DzLtmHB7wTEkJiz/R/u1eYXy9IMaZqct9fd5wgKSB2qxFnVBufmxjrbDAEob0lzvBG9i6siQzAWc8KGjkcaBYh9Dv5RBdcb3rxWQpkEFlBhcQrYzC9pDK4HcCGU+6aDt74AKmfWIf+zN+xb3dijiqyvgrA3jKpoom5o8k5Bf4iOorMyz9HH5AQ==</value>
+  </data>
+  <data name="_GCUtilities_9_" xml:space="preserve">
+    <value>OSVSXGgEAAG1PSwrCQAy9SsgBVNRl24WK4EIr6AVijRqcTspMptjbWy0Kgsv3XvI+2Zbtpmc4d55qqY5dwzkOHEJP9Wh54+q+1rDjh+3pygjkhOLuryjtZI7QSpSTOLEuxxVfKDkrPULUFKr+CeHktLq/wgYXhMCWgh/iD100rkcLVcfkscgaClR/2mjyxuG3xId7H/6YbLzNpggSNz7HNbnIL1Am+6JGo5hoL08QxkU2HtYXTw==</value>
+  </data>
+  <data name="_GCUtilities_10_" xml:space="preserve">
+    <value>OSVSXHgEAAH2QQQ6CQAxFrzLpAYToFlioMXEhmOgFClZtHKZkpkPk9oJEEzcu/+/v70uzA+ldLuYyOGy5OQ8d5TB7YEZrVJs7NY+d+JKeesQbcZ+uwKBlDOWfQM+Ba7asQw5bumK0WjkwQaJvxiUwtZXmMR2cW8B40ujdjHAaglK7WItYQgdF1qHH9kMk0Sn5X4iP9w7+lOydrpZgOOxdDju0gSZRRf2qTgIryzhOwSRFlswfKF4=</value>
+  </data>
+  <data name="_GCUtilities_11_" xml:space="preserve">
+    <value>OSVSXWQEAAKWQSQ7CMAxFr2L5AJRh23aBAKkL6AIu4LZBWKRJyYCU25M2CClrlu/b309yeRbuoQcYgqKR+1uYRIUpQ4hRJLbHlyeJQJLJXvLszZY7luxChQdxJy9dqxCs9qaPewid1P1zPpuKCEY4b1QSXYN1YlzttZaCFNblRIbGr5cyY6RlmBUb5XZbBLaNqvBE0ooZWu9+NGnLjnUcrxGKXNBlgu5fwWYRFOl59Qc=</value>
+  </data>
+  <data name="_GCUtilities_12_" xml:space="preserve">
+    <value>OSVSXAgEAAGWPTQrCMBCFrxLmANYDtF2J4EILVtxPa7SDaRIyEyG3NzUiFJfvm/fD1Ectk7upW7I403hJXjdQGKiMsmLBIGf0lAkaQj794RcxDWRIUgM7fcdopLOg2MUwZiuowbjxuZSXLKigJQZb5vrEoufN1eWqtvYYcP5Oe5RpNVrAx7LK9hLIPkARH2wDezSsF9FF+SnvmIRcPm9BVW1dlS/bNw==</value>
+  </data>
+  <data name="_GCUtilities_13_" xml:space="preserve">
+    <value>OSVSXDgEAAG2PzQ6CMAzHX6XpA4gPAJyMCQflgC9QxtTGsZGtI9nbO5zhxPH/0f7a+qbl7SaYkqWZ1SMtusHiIWQrK2U02c6ujpVGIMMU7gfByoFHNiypwYt+UjTSW4Tgole5jDAapz4boEwjeC3R24IcUhA9nwbxbF/Y1gt5mv8H8AF7937Fox3AobMNXskEvYk+yq4WF1jY5fiMULV1VT5uvw==</value>
+  </data>
+  <data name="_GCUtilities_14_" xml:space="preserve">
+    <value>OSVSXFAEAAG1PWw6CQAy8yqYHEA8AfBmNH2AiXmCBio37INuuyd5eHobEhM95dGaaVygv36s+OW2pe6QRC1g5UBM1oQvKHSUGV0fbYgClDWmu97UPMbVkSFIBJ3zqaOTmQLGPoZv8oFrju/dcswaACsv9WtwkFrSHRgK5Acp81EHb34wKmfWAf/Ubtxj3MhTx1RVw1oZxBrcoGxo9k5Cf5COorMyz9e/yCw==</value>
+  </data>
+  <data name="_GCUtilities_15_" xml:space="preserve">
+    <value>OSVSXEAEAAG2PSw7CMAxErxL5AJQDtN3wkVhAF0Xs3TSART5V4iBye1KCKiGxnDdjj10fFd/dKMZk0ZA8p0k1UBiIjLLavZSMrDbOGLSZoiYMp7/WkwINpIlTA1t1xai5syCCi17mOIhBO/mYS8o8CK84eltq+xRYmdXF0QhtPaFH8z1B/ule2Cf4s6FnT/YGgsLBNrBHHdQsusiLmlwgJpftNYiqravyc/sG</value>
+  </data>
+  <data name="_GCUtilities_16_" xml:space="preserve">
+    <value>OSVSXdwEAAI2QTQ6CMBCFr9LMAQTjFlgYY8JCWOAFSqk6sT+kPyS9vYUaEpWFy/fezPsmU1y4e+iBDEFRiewaRl5C8oBEKyomOFW147LxEggVSG2zEUxosUeBLpRw4jfqhWsVEKu9YXEYSC80e86AtA3EcOeNSsgu2Fi065xBdYeqGKmh8n0AbrBXbxnc6iBoa1XCmQrLZ9F6t6pRW3SoY5wDyb5oU374RC3GL+eo9fyAP0H7BZSl11Yv</value>
+  </data>
+  <data name="_GCUtilities_17_" xml:space="preserve">
+    <value>OSVSXHgEAAH2QQQ6CQAxFrzLpARR1CyzUkLhQTPQCFao0DlMy0zFye1GCiRuX//f396XpnrSR2tS9w5arc99RBqMHZrAGtWmouhfiD/TUI96IXbIAg5YxHP4EHhz4wpa1z2BLV4xWSwcmSPTVsATmYqW6vw+OLWA8afRuRDj1QamdrUUsoYM87dBjOxFJdEr+F2LyPsGfkp3T1RIMh53LoEAb6C3KqF/VSWBlGcYJmHmezscP5C8=</value>
+  </data>
+</root>

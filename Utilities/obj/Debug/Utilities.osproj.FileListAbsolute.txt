@@ -1,0 +1,9 @@
+C:\Users\codyk\Documents\Pega Robot Studio\Projects\WFRapidEntry\Utilities\bin\Debug\RuntimeConfig.xml
+C:\Users\codyk\Documents\Pega Robot Studio\Projects\WFRapidEntry\Utilities\bin\Debug\Utilities.dll
+C:\Users\codyk\Documents\Pega Robot Studio\Projects\WFRapidEntry\Utilities\bin\Debug\Utilities.pdb
+C:\Users\codyk\Documents\Pega Robot Studio\Projects\WFRapidEntry\Utilities\obj\Debug\ImportTypeMap.resources
+C:\Users\codyk\Documents\Pega Robot Studio\Projects\WFRapidEntry\Utilities\obj\Debug\MessageManifest.resources
+C:\Users\codyk\Documents\Pega Robot Studio\Projects\WFRapidEntry\Utilities\obj\Debug\Utilities.osproj.GenerateResource.Cache
+C:\Users\codyk\Documents\Pega Robot Studio\Projects\WFRapidEntry\Utilities\obj\Debug\Utilities.dll
+C:\Users\codyk\Documents\Pega Robot Studio\Projects\WFRapidEntry\Utilities\obj\Debug\Utilities.pdb
+C:\Users\codyk\Documents\Pega Robot Studio\Projects\WFRapidEntry\Utilities\obj\Debug\Utilities.osprojResolveAssemblyReference.cache

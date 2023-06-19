@@ -1,0 +1,47 @@
+<Cache>
+  <Project configuration="" />
+  <DesignComponents>
+    <DesignComponent id="Automator-8DA582D02620F2E" className="CheckClaimType" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8DA3340181E7FE6" className="CleanUpFiles" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="GlobalContainer-8DA22AA63A5DCD6" className="GCUtilities" type="GlobalContainer" isPublic="True" screenShots="">
+      <DynamicClasses>
+        <DynamicClass id="Script-8DA291A3F415763" fileExt=".cs">
+          <References>
+            <Reference value="System.dll" />
+            <Reference value="OpenSpan.dll" />
+            <Reference value="OpenSpan.Controls.dll" />
+            <Reference value="System.Core.dll" />
+            <Reference value="System.Data.dll" />
+            <Reference value="System.Design.dll" />
+            <Reference value="System.Drawing.dll" />
+            <Reference value="System.Web.dll" />
+            <Reference value="System.Windows.Forms.dll" />
+            <Reference value="System.Xml.dll" />
+            <Reference value="OpenSpan.Adapters.dll" />
+            <Reference value="OpenSpan.Adapters.Web.dll" />
+            <Reference value="OpenSpan.Adapters.Windows.dll" />
+          </References>
+        </DynamicClass>
+      </DynamicClasses>
+    </DesignComponent>
+    <DesignComponent id="Automator-8DA26974386389E" className="GetCaseFile" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8DA22AABA0A628C" className="GetCredentials" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D94774337BED33" className="HandleError" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D95419ED4F8C0F" className="LoadInReferenceData" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8DA31ABF202E392" className="ParseExcel" type="Automation" isPublic="True" screenShots="">
+      <DynamicClasses>
+        <DynamicClass id="NumericExpression-8DA32770DD9E3E6" fileExt=".cs">
+          <References>
+            <Reference value="System.dll" />
+            <Reference value="OpenSpan.dll" />
+            <Reference value="OpenSpan.Controls.dll" />
+          </References>
+        </DynamicClass>
+      </DynamicClasses>
+    </DesignComponent>
+    <DesignComponent id="Automator-8DA33478A56369A" className="SendEmail" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8DA446889A704D5" className="SendErrorMsgBack" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8DA328AA4D292CB" className="SendLogNum" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="DesignForm-8DA290868CC75AC" className="TestForm" type="WinForm" isPublic="True" screenShots="" />
+  </DesignComponents>
+</Cache>

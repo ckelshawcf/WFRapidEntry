@@ -1,0 +1,8 @@
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="Utilities" fileName="Utilities.dll" assemblyName="Utilities.dll" id="Project-8DA22AA59287D2F" version="19.1.118.0" deploymentVersion="1.0" configuration="" createdWith="Build" obfuscated="False" runtime="True" digest="54D96C2D019AF002E854610722E37BD71F2E9C">
+    <Assemblies>
+      <Assembly value="Utilities.dll" digest="1CC5A848B647A990EE75F382ACA65BA62A1F60" />
+      <Assembly value="Utilities.pdb" digest="ABF8D4BA458507D2F8096176131FBCD75C8C65" />
+    </Assemblies>
+  </CompositeStudioProject>
+</DeploymentManifest>
