@@ -1,0 +1,1 @@
+taskkill /f /im NOVTRM32.EXE
